@@ -16,5 +16,7 @@ https://youtu.be/Vvd8aCLv76I
 Publications:
 
 1- Shahram Jalaliniya and Pederson, Thomas and Mardanbegi, Diako, A Wearable Personal Assistant for Surgeons – Design, Evaluation, and Future Prospects.EAI Endorsed Transactions on Pervasive Health and Technology, 17 (12). ISSN 2411-7145.
+
 2- Jalaliniya, S. & Pederson, T. “Qualitative Study of Surgeons Using a Wearable Personal Assistant in Surgeries and Ward Rounds”, Proc. of HealthWear Conference, Jun 2016, pages 208–219. Springer International Publishing, Cham, 2017.
+
 3- Jalaliniya, S., Pederson, T. “Designing Wearable Personal Assistants for Surgeons: An Egocentric Approach”. Pervasive Computing, IEEE , vol.14, no.3, pp.22,31, July-Sept. 2015.
